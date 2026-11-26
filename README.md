@@ -24,10 +24,9 @@ due to size.
 | Recall | 0.6621 |
 | Precision | 0.0553 |
 
-![ROC curve](results/roc_curve.png)
+![ROC curve](https://github.com/siyaagarwal2005/sepsis-prediction-using-LSTM/blob/main/roc_curve.png)
 
-## Limitations
-- ...
+
 
 ## How to run
 Notebooks were built in Google Colab. Paths assume
