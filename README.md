@@ -20,9 +20,9 @@ due to size.
 ## Results
 | Metric | Value |
 |---|---|
-| AUROC | ... |
-| Recall | ... |
-| Precision | ... |
+| AUROC | 0.7965 |
+| Recall | 0.6621 |
+| Precision | 0.0553 |
 
 ![ROC curve](results/roc_curve.png)
 
